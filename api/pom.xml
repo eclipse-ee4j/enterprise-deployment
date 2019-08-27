@@ -27,7 +27,7 @@
 
     <groupId>jakarta.enterprise.deploy</groupId>
     <artifactId>jakarta.enterprise.deploy-api</artifactId>
-    <version>1.7.2-SNAPSHOT</version>
+    <version>1.7.3</version>
     <inceptionYear>2002</inceptionYear>
 
     <properties>
